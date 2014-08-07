@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="vaplatform:ear exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/vaplatform_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="vaplatform/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,320 @@
+.icon-blank{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blank.gif') no-repeat;
+}
+.icon-add{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/edit_add.png') no-repeat;
+}
+.icon-edit{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/pencil.png') no-repeat;
+}
+.icon-remove{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/edit_remove.png') no-repeat;
+}
+.icon-save{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/filesave.png') no-repeat;
+}
+.icon-cut{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/cut.png') no-repeat;
+}
+.icon-ok{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/ok.png') no-repeat;
+}
+.icon-no{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/no.png') no-repeat;
+}
+.icon-cancel{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/cancel.png') no-repeat;
+}
+.icon-reload{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/reload.png') no-repeat;
+}
+.icon-search{
+	background:url('../Images/search00.png') no-repeat;
+}
+.icon-print{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/print.png') no-repeat;
+}
+.icon-help{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/help.png') no-repeat;
+}
+.icon-undo{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/undo.png') no-repeat;
+}
+.icon-redo{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/redo.png') no-repeat;
+}
+.icon-back{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/back.png') no-repeat;
+}
+.icon-sum{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/sum.png') no-repeat;
+}
+.icon-tip{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/tip.png') no-repeat;
+}
+
+
+.icon-Baccept
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/accept.png') no-repeat;
+}
+.icon-Badd
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/add.png') no-repeat;
+}
+.icon-Badd_new
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/add_new.png') no-repeat;
+}
+.icon-Bblock
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/block.png') no-repeat;
+}
+.icon-Bcancel
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/cancel.png') no-repeat;
+}
+.icon-Bcancel_b
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/cancel_b.png') no-repeat;
+}
+.icon-Bcut
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/cut.png') no-repeat;
+}
+.icon-Bdelete
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/delete.png') no-repeat;
+}
+.icon-Bdown
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/down.png') no-repeat;
+}
+.icon-Bdown_blue
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/down_blue.png') no-repeat;
+}
+.icon-Bdownload
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/download.png') no-repeat;
+}
+.icon-Bedit
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/edit.png') no-repeat;
+}
+.icon-Bedit_pan
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/edit_pan.png') no-repeat;
+}
+.icon-Bemail
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/email.png') no-repeat;
+}
+.icon-Bexit
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/exit.png') no-repeat;
+}
+.icon-Bfind
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/find.png') no-repeat;
+}
+.icon-Bfinduser
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/finduser.png') no-repeat;
+}
+.icon-Bfolder
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/folder.png') no-repeat;
+}
+.icon-Bgou
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/gou.png') no-repeat;
+}
+.icon-Bhelp
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/help.png') no-repeat;
+}
+.icon-Bhome
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/home.png') no-repeat;
+}
+.icon-Binfo
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/info.png') no-repeat;
+}
+.icon-Bjia
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/jia.png') no-repeat;
+}
+.icon-Bkey
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/key.png') no-repeat;
+}
+.icon-Bleft
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/left.png') no-repeat;
+}
+.icon-Bleft_blue
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/left_blue.png') no-repeat;
+}
+.icon-Blianxi
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/lianxi.png') no-repeat;
+}
+.icon-Block
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/lock.png') no-repeat;
+}
+.icon-Bnet
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/net.png') no-repeat;
+}
+.icon-Bnew
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/new.png') no-repeat;
+}
+.icon-Bok
+{
+	background:url('../Images/ok000000.png') no-repeat;
+}
+.icon-Bopen
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/open.png') no-repeat;
+}
+.icon-Bplay
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/play.png') no-repeat;
+}
+.icon-Bstop
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/stop.png') no-repeat;
+}
+.icon-Bpause
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/pause.png') no-repeat;
+}
+.icon-Bopen
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/open.png') no-repeat;
+}
+.icon-Bpower
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/power.png') no-repeat;
+}
+.icon-Bprint
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/print.png') no-repeat;
+}
+.icon-Brecycle
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/recycle.png') no-repeat;
+}
+.icon-Bredo
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/redo.png') no-repeat;
+}
+.icon-Breflesh
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/reflesh.png') no-repeat;
+}
+.icon-Breload
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/reload.png') no-repeat;
+}
+.icon-Bremove
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/remove.png') no-repeat;
+}
+.icon-Bright
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/right.png') no-repeat;
+}
+.icon-Bright_bule
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/right_bule.png') no-repeat;
+}
+.icon-Brmb
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/rmb.png') no-repeat;
+}
+.icon-Bsave
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/save.png') no-repeat;
+}
+.icon-Bsearch
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/search.png') no-repeat;
+}
+.icon-Bsound
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/sound.png') no-repeat;
+}
+.icon-Btools
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/tools.png') no-repeat;
+}
+.icon-Bundo
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/undo.png') no-repeat;
+}
+.icon-Bup
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/up.png') no-repeat;
+}
+.icon-Bup_blue
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/up_blue.png') no-repeat;
+}
+.icon-Bup
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/up.png') no-repeat;
+}
+.icon-Buser
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/user.png') no-repeat;
+}
+.icon-Bapp
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/app.png') no-repeat;
+}
+.icon-Bsetting
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/setting.png') no-repeat;
+}
+.icon-Buseedit
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/useedit.png') no-repeat;
+}
+.icon-Bjian
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/jian.png') no-repeat;
+}
+.icon-Bapplication
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/application.png') no-repeat;
+}
+.icon-Bapp1
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/app1.png') no-repeat;
+}
+.icon-Bsetting1
+{
+	background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/setting1.png') no-repeat;
+}
+.icon-Bview
+{
+    background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/view.png') no-repeat;
+}
+.icon-Bimport
+{
+    background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/view.png') no-repeat;
+}
+.icon-Bcheckin
+{
+    background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/checkin.png') no-repeat;
+}
+.icon-Bgroup
+{
+    background:url('http://uiaadmin.netcall.cc/Scripts/UIControls/themes/icons/blue/group.png') no-repeat;
+}
